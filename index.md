@@ -2,9 +2,9 @@
 
 Huddle Fish helps members of a community make one-on-one connections with each other.
 
-1. Join a conference and make a profile.
-2. Rank other submitted profiles based on who you would want to meet with.
-3. We will use the ranks to assign matches
+1. Join a conference and submit a profile.
+2. Choose the profiles of others you would like to meet and rank them in order.
+3. We will use the ranks to assign matches.
 4. Attend a sequence of "huddles" (one-on-one virtual meetings) with your matches.
 
 We are currently in the development phase. To stay up-to-date as we develop our app, please sign up for our newsletter below:
